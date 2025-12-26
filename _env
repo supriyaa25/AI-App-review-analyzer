@@ -1,0 +1,10 @@
+# Google Gemini API Configuration
+GEMINI_API_KEY=AIzaSyDS2Qw-b5ESB5QTWu0tAYDCNakDXZJ8JTk
+
+# Optional: Adjust model settings
+GEMINI_MODEL=gemini-1.5-flash
+# Alternative models: gemini-1.5-pro, gemini-1.5-flash-8b
+
+# Optional: Generation settings
+MAX_OUTPUT_TOKENS=8192
+TEMPERATURE=0.7
